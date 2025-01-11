@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Chaisiri Onlim an undergraduate student in Computer Engineering.
 ![image info](./portrait.jpg)
-- 🌱 I’m currently learning software engineering!
+
 
 
 <!--
